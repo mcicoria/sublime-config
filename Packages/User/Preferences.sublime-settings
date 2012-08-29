@@ -1,0 +1,13 @@
+{
+	"color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
+	"detect_indentation": false,
+	"font_face": "Meslo LG S DZ",
+	"font_size": 14.0,
+	"ignored_packages":
+	[
+		"Vintage",
+		"Markdown Preview"
+	],
+	"theme": "Soda Light.sublime-theme",
+	"translate_tabs_to_spaces": true
+}

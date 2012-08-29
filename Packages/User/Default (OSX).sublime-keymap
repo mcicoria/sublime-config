@@ -1,0 +1,6 @@
+[
+	{ "keys": ["super+shift+."], "command": "show_overlay", "args": {"overlay": "command_palette", "text":"Snippet:"} },
+	{ "keys": ["super+shift+,"], "command": "new_snippet"},
+    { "keys": ["super+["], "command": "previous_edit" },
+    { "keys": ["super+]"], "command": "next_edit" } 
+]

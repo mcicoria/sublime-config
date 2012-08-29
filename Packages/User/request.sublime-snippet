@@ -1,0 +1,13 @@
+<snippet>
+	<content><![CDATA[
+request
+	.${1:type}(${2:url})
+	.send(${3:data})
+	.pipe(res);
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>request.</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.js</scope>
+	<description>Request using Superagent</description>
+</snippet>

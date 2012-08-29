@@ -1,0 +1,5 @@
+{
+    "cmd": ["open", "-a", "Xcode", "$file"],
+    "selector": "source.objc",
+    "shell": false
+}
